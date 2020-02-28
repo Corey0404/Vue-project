@@ -1,3 +1,5 @@
+This is my first pieces of knowledge to Vue js.  Many thanks to Vladilen for this gorgeous course.
+
 # ad-project
 
 ## Project setup
